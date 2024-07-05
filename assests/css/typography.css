@@ -1,0 +1,173 @@
+.hero-banner-discover .hero-banner-content h1 {
+  font-size: 70px;
+  font-weight: 100;
+  font-family: 'Euclid Circular A';
+}
+
+.hero-banner-discover .hero-banner-content p {
+  font-size: 19px;
+  color: white;
+}
+
+.hero-banner-discover .hero-banner-content .all-product {
+  color: #A18167;
+
+}
+
+.Pieces-and-counting .with-over-pieces .with-over-content {
+  color: #101010;
+}
+
+.ring-section .underline {
+
+  color: #A18167;
+}
+
+.with-over-pieces .with-over-para p {
+  color: black;
+}
+
+.our-passion-for-crafting .crafting-the-best h5 {
+  color: black;
+}
+
+.our-passion-for-crafting .crafting-the-best p {
+  color: grey;
+}
+
+.underline-two {
+
+  color: #A18167;
+}
+
+.customize .customize-your-own h3 {
+  color: #F4F4F4;
+}
+
+.customize .customize-your-own p {
+
+  color: #F4F4F4;
+
+}
+
+.customize .customize-your-own .customize-button {
+  font-size: 20px;
+  background-color: transparent;
+  text-transform: uppercase;
+}
+
+.borrow-ring .borrow-ring-propose h2 {
+  color: black;
+}
+
+.borrow-ring .borrow-ring-propose p {
+  font-size: 20px;
+  margin-top: 30px;
+  color: grey;
+}
+
+.borrow-ring .borrow-ring-propose .ring-button {
+  background-color: #A18167;
+  color: #fff;
+  font-size: 18px;
+}
+
+.wedding-ring .wedding-ring-couple .discover-wedding-ring {
+  color: black;
+}
+
+.wedding-ring .engagement-ring .discover-engagements-rings {
+  color: black;
+}
+
+.wedding-ring .engagement-ring h5 {
+  color: #F4F4F4;
+}
+
+.wedding-ring .engagement-ring p {
+  color: #F4F4F4;
+}
+
+.contact-us-red .contact-us-section .send-us-email {
+
+  color: black;
+
+
+}
+
+.wedding-ring .wedding-ring-couple h5 {
+  color: #F4F4F4;
+}
+
+.wedding-ring .wedding-ring-couple p {
+  color: #F4F4F4;
+}
+
+.contact-us-red .contact-us-section h4,
+p {
+  color: #F4F4F4;
+
+}
+
+.featured-blog .featured-blog-details .the-queen {
+  color: grey;
+  font-size: 20px;
+}
+
+.featured-blog .featured-blog-details .jeanne-toussaint {
+  margin-top: 20px;
+  font-size: 35px;
+  line-height: 50px;
+  color: #101010;
+}
+
+.feature-details .double-button .read-blog {
+  background-color: #A18167;
+  border: 2px solid white;
+  font-size: 18px;
+
+}
+
+.feature-details .double-button .view-all-blog {
+  background-color: #F4F4F4;
+  color: #A18167;
+  border: 2px solid white;
+  font-size: 18px;
+}
+
+.feature-blog-content .four-min-read p {
+  color: gray;
+}
+
+.feature-collection .silver-round h4 {
+  color: #A18167;
+  text-transform: uppercase;
+  /* word-spacing: 10px; */
+}
+
+.feature-collection .silver-round h5 {
+  font-weight: 500;
+
+}
+
+.feature-collection .silver-round p {
+  margin-top: 50px;
+  color: gray;
+}
+
+.feature-collection .silver-round .see-collection {
+  background-color: #A18167;
+  font-size: px;
+  border: none;
+  text-transform: uppercase;
+}
+
+.footer-menu a {
+  color: rgb(191, 186, 186);
+  font-size: 18px;
+
+}
+
+.footer-menu .brand-logo-bottom .logo-name {
+  font-size: 40px;
+}

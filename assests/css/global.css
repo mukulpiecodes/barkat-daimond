@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('../font/light/EuclidCircularA-Light.woff2') format('woff2'),
+    url('../font/light/EuclidCircularA-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('../font/regular/EuclidCircularA-Regular.woff2') format('woff2'),
+    url('../font/regular/EuclidCircularA-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('../font/bold/EuclidCircularA-Bold.woff2') format('woff2'),
+    url('../font/bold/EuclidCircularA-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('../font/medium/EuclidCircularA-Medium.woff2') format('woff2'),
+    url('../font/medium/EuclidCircularA-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Euclid Circular A';
+  src: url('../font/semi-bold/EuclidCircularA-SemiBold.woff2') format('woff2'),
+    url('../font/semi-bold/EuclidCircularA-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #F4F4F4;
+  font-family: 'Euclid Circular A';
+
+}
+
+.wrapper {
+  width: 1280px;
+  margin: 0 auto;
+
+}
+
+h1 {
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 83px;
+  font-family: 'Euclid Circular A';
+}
+
+h3 {
+  font-family: 'Euclid Circular A';
+  font-weight: 500;
+  font-size: 50px;
+  /* line-height: 92px; */
+  color: black;
+}
+
+h4 {
+  font-family: 'Euclid Circular A';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: black;
+}
+
+h5 {
+  font-family: 'Euclid Circular A';
+  font-size: 30px;
+  line-height: 56px;
+  color: #101010;
+}
+
+h6 {
+  font-size: 14px;
+  color: black;
+  text-transform: uppercase;
+}
+
+p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #101010;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}

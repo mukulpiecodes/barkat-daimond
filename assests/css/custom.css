@@ -1,0 +1,427 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+
+}
+
+.main-header .navbar .main-menu {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  margin-top: 20px;
+
+}
+
+.navbar .main-menu a {
+  text-decoration: none;
+  color: white;
+}
+.main-menu a:hover{
+  color: #000;
+}
+
+.main-header .search-bar {
+  border-bottom: 1px solid white;
+  width: 200px;
+
+  line-height: 60px;
+
+}
+
+.main-header .search-bar span {
+margin-left: 25px;
+font-size: 18px;
+font-weight: 500;
+}
+
+.main-header .cart i {
+line-height: 48px;
+font-size: 34px;
+
+
+}
+
+.hero-banner {
+  background-image: url(../Images/banner-image.png);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  margin-top: -90px;
+}
+
+.hero-banner .hero-banner-discover .hero-banner-content {
+  width: 45%;
+  padding-left: 10px;
+  padding-top: 120px;
+}
+
+.hero-banner-discover .hero-banner-content p {
+  margin-top: 20px;
+}
+
+.hero-banner-discover .hero-banner-content .primary-button {
+  margin-top: 50px;
+  height: 50px;
+  width: 230px;
+  color: #A18167;
+  font-weight: 1000;
+}
+
+.Pieces-and-counting {
+  padding-top: 120px;
+}
+
+.Pieces-and-counting .with-over-pieces .with-over-content {
+  display: inline-block;
+  width: 55%;
+}
+
+.Pieces-and-counting .with-over-pieces .with-over-para {
+  display: inline-block;
+  width: 40%;
+}
+
+.ring-section {
+  padding-top: 50px;
+}
+
+
+
+
+
+.owl-carousel .item h6 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.owl-carousel .item p {
+  text-align: center;
+  color: #A18167;
+  margin-top: 5px;
+
+}
+
+
+
+.ring-section .secondary-button {
+  margin-top: 100px;
+  height: 50px;
+  width: 220px;
+  color: white;
+  background-color: #A18167;
+  font-weight: 1000;
+  border: 2px solid white;
+  margin-left: 44%;
+}
+
+.ring-section .underline {
+  margin-top: 100px;
+  color: #A18167;
+}
+
+.our-passion .our-passion-for-crafting {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.our-passion .our-passion-for-crafting .crafting-the-best {
+  width: 50%;
+  margin-left: 50px;
+}
+
+.our-passion-for-crafting .crafting-the-best p {
+  margin-top: 30px;
+}
+
+.underline-two {
+  margin-top: 50px;
+  color: #A18167;
+}
+
+.customize {
+  background-image: url(../Images/own-piece.png);
+  background-size: cover;
+  justify-content: center;
+  background-position: center;
+  padding-top: 170px;
+  margin-top: 100px;
+}
+
+.customize .customize-your-own {
+  text-align: center;
+}
+
+.customize .customize-your-own p {
+  width: 49%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.customize .customize-your-own .customize-button {
+  margin-top: 70px;
+  height: 45px;
+  width: 200px;
+  background-color: transparent;
+  margin-bottom: 100px;
+}
+
+.borrow {
+  margin-top: 120px;
+}
+
+.borrow .borrow-ring {
+  display: flex;
+}
+
+.borrow-ring .propose-ring img {
+  width: 600px;
+}
+
+.borrow .borrow-ring .borrow-ring-propose {
+  margin-left: 20px;
+}
+
+.borrow-ring .borrow-ring-propose .ring-button {
+  height: 45px;
+  width: 170px;
+  margin-top: 50px;
+  border: 2px solid white;
+  text-transform: uppercase;
+}
+
+.wedding .wedding-ring {
+  display: flex;
+  text-align: center;
+}
+
+.wedding .wedding-ring .wedding-ring-couple {
+  background-image: url(../Images/overlays-image-1.png);
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.wedding-ring .wedding-ring-couple p {
+  margin-top: 25px;
+}
+
+.wedding-ring .wedding-ring-couple .discover-wedding-ring {
+  height: 40px;
+  width: 250px;
+  margin-top: 60px;
+  text-transform: uppercase;
+}
+
+.wedding .wedding-ring .engagement-ring {
+  background-image: url(../Images/overlays-img-2.png);
+  padding-top: 100px;
+}
+
+.wedding-ring .engagement-ring p {
+  margin-top: 25px;
+}
+
+.wedding-ring .engagement-ring .discover-engagements-rings {
+  margin-top: 60px;
+  height: 40px;
+  width: 300px;
+  text-transform: uppercase;
+}
+
+/* ring slider css */
+/* ring slider css part */
+.contact-us-red {
+  background-image: url(../Images/contant-img.png);
+  background-size: cover;
+  object-fit: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.contact-us-red .contact-us-section {
+  width: 33%;
+  padding-left: 50px;
+}
+
+.contact-us-red .contact-us-section .lorem {
+  margin-top: 50px;
+}
+
+.contact-us-red .contact-us-section .number {
+  margin-top: 30px;
+}
+
+.contact-us-red .contact-us-section .or {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.contact-us-red .contact-us-section .send-us-email {
+  height: 40px;
+  width: 200px;
+  margin-top: 30px;
+  text-transform: uppercase;
+  /* margin-left: -30px; */
+}
+
+.featured-blog {
+  padding-top: 130px;
+}
+
+.featured-blog .hand-together {
+  display: inline-block;
+  width: 48%;
+}
+
+.featured-blog .hand-together img {
+  height: 625px;
+  width: 650px;
+  object-fit: cover;
+}
+
+.featured-blog .featured-blog-details {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+  padding-left: 100px;
+}
+
+.featured-blog-details .feature-details {
+  padding-bottom: 100px;
+}
+
+.featured-blog .featured-blog-details .jeanne-toussaint {
+  margin-top: 20px;
+}
+
+.featured-blog .featured-blog-details .the-queen {
+  margin-top: 20px;
+}
+
+.feature-details .double-button .read-blog {
+  height: 60px;
+  width: 150px;
+  text-transform: uppercase;
+}
+
+.feature-details .double-button .view-all-blog {
+  height: 60px;
+  width: 220px;
+  text-transform: uppercase;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.feature-details .feature-blog-content .four-min-read {
+  margin-top: 10px;
+}
+
+.featured-blog-details .feature-details .feature-blog-content {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  border-bottom: 2px solid black;
+}
+
+.feature-collection {
+  background-color: #F4F4F4;
+  padding-top: 120px;
+  padding-bottom: 170px;
+}
+
+.feature-collection .silver-round {
+  display: inline-block;
+  width: 45%;
+  vertical-align: top;
+  padding-top: 80px;
+}
+
+.feature-collection .women-in-black {
+  display: inline-block;
+  width: 48%;
+}
+
+.feature-collection .silver-round h5 {
+  width: 60%;
+  line-height: 35px;
+  margin-top: 30px;
+}
+
+.feature-collection .silver-round p {
+  margin-top: 50px;
+}
+
+.feature-collection .silver-round .see-collection {
+  height: 50px;
+  width: 200px;
+  margin-top: 80px;
+}
+
+.feature-collection .women-in-black img {
+  width: 100%;
+}
+
+
+
+.Jewerly-scroll-bar {
+  padding: 100px 0px 100px 0px;
+}
+
+
+
+
+
+
+footer {
+  background-color: #A18167;
+}
+
+.footer-menu {
+  padding: 130px 20px 130px 20px;
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer-menu .about-us-container .about-us {
+  display: grid;
+  line-height: 2;
+}
+
+.footer-menu .costomer-care {
+  display: grid;
+  line-height: 2;
+}
+
+.footer-menu .follow-us {
+  display: grid;
+  line-height: 2;
+}
+
+.footer-menu .costomer-care-two {
+  display: grid;
+  line-height: 2;
+}
+
+.footer-menu .brand-logo-bottom img {
+
+  /* margin-top: -300px; */
+vertical-align: middle;
+
+}
+
+.footer-menu .social-icon img {
+  /* margin-top: 200px; */
+  padding: 10px;
+
+}
+
+.footer-menu p{
+  font-weight: 600;
+}
+
+.footer-menu a:hover{
+  color: #000;
+}
